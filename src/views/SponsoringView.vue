@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Sponsoring from '../components/Sponsoring.vue'
+import Sponsoring from '../components/TheSponsoring.vue'
 </script>
 
 <template>
