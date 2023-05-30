@@ -13,7 +13,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Save the Date</template>
     This year, Brightcon will take place from <b>September 16th to September 20, 2023</b>.
-
+    The <RouterLink to="/programme"> tentative programme is out there. </ROuterLink>
   </WelcomeItem>
   <WelcomeItem>
     <template #icon>
