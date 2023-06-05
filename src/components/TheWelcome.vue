@@ -4,6 +4,7 @@ import CommunityIcon from './icons/IconCommunity.vue'
 import CalendarIcon from './icons/IconCalendar.vue'
 import EcosystemIcon from './icons/IconEcosystem.vue'
 import SupportIcon from './icons/IconSupport.vue'
+import ToolingIcon from './icons/IconTooling.vue'
 </script>
 
 <template>
@@ -14,6 +15,13 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Save the Date</template>
     This year, Brightcon will take place from <b>September 16th to September 20, 2023</b>.
     The <RouterLink to="/programme"> tentative programme is out there. </ROuterLink>
+  </WelcomeItem>
+  <WelcomeItem>
+    <template #icon>
+      <ToolingIcon />
+    </template>
+    <template #heading>Registration</template>
+    Registration will open soon, stay tuned for news.
   </WelcomeItem>
   <WelcomeItem>
     <template #icon>
