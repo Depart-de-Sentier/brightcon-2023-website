@@ -21,7 +21,7 @@ import ToolingIcon from './icons/IconTooling.vue'
       <ToolingIcon />
     </template>
     <template #heading>Registration</template>
-    Registration will open soon, stay tuned for news.
+    Registration is open now and available at <RouterLink to="/register"> register page</RouterLink>.
   </WelcomeItem>
   <WelcomeItem>
     <template #icon>
