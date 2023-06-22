@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Programme from '../components/TheProgramme.vue'
+import TheProgramme from '../components/TheProgramme.vue'
 </script>
 
 <template>
   <main>
-    <Programme />
+    <TheProgramme />
   </main>
 </template>
