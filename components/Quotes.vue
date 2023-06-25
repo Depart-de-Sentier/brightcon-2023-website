@@ -2,8 +2,8 @@
   <div :class="`card ${isGreen ? 'bg-primary' : ''}`">
     <div class="userdetails">
       <div class="imgbox">
-        <nuxt-img
-          src="imgUrl"
+        <NuxtImg
+          :src="imgUrl"
           alt=""
           format="webp"
           fit="cover"
