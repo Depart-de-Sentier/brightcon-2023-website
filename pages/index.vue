@@ -2,6 +2,6 @@
   <div>
     <LandingPage />
     <br />
-    <WhatIsBrightcon />
+    <ThisYear />
   </div>
 </template>
