@@ -28,7 +28,7 @@ jobs:
     - name: install deps
       run: npm ci
     - name: Build
-      run: npm run build
+      run: npm run generate
     # dist directory created
     - name: debug outputs
       run: ls -lha
@@ -39,6 +39,6 @@ jobs:
         user: ${{ secrets.USERNAME }}
         key: ${{ secrets.KEY }}
         port: ${{ secrets.PORT }}
-        local: 'dist/*'
+        local: '.output/public/*'
         remote: brightcon-2023-website
         scp_options: -r
