@@ -20,7 +20,8 @@
             <!-- <NuxtLink to="/venue" class="button primary outline">
               Venue
             </NuxtLink> -->
-            <NuxtLink to="/calls" class="button primary outline">
+            <NuxtLink href="https://docs.google.com/forms/d/e/1FAIpQLSfnPVKruULk9cR_wC8OKu8QkSv1C7Dl7Pr0mxQELcnGUy37dw/viewform?pli=1"
+	    class="button primary outline">
               Calls
             </NuxtLink>
             <!-- <NuxtLink to="/programme" class="button primary outline">

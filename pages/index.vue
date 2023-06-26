@@ -3,6 +3,5 @@
     <LandingPage />
     <br />
     <WhatIsBrightcon />
-    <OurSponsors />
   </div>
 </template>
