@@ -2,7 +2,9 @@
 
 <template>
   <div>
+    <Header />
     <slot />
+    <div class="spacer" />
     <Footer />
   </div>
 </template>
