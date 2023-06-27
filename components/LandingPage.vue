@@ -20,8 +20,10 @@
             <!-- <NuxtLink to="/venue" class="button primary outline">
               Venue
             </NuxtLink> -->
-            <NuxtLink href="https://docs.google.com/forms/d/e/1FAIpQLSfnPVKruULk9cR_wC8OKu8QkSv1C7Dl7Pr0mxQELcnGUy37dw/viewform?pli=1"
-	    class="button primary outline">
+            <NuxtLink
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfnPVKruULk9cR_wC8OKu8QkSv1C7Dl7Pr0mxQELcnGUy37dw/viewform?pli=1"
+              class="button primary outline"
+            >
               Calls
             </NuxtLink>
             <!-- <NuxtLink to="/programme" class="button primary outline">
@@ -30,9 +32,9 @@
             <NuxtLink to="/register" class="button primary">
               <span>Register</span>
             </NuxtLink>
-            <!-- <NuxtLink to="/sponsor" class="button primary">
-                            Become a sponsor
-                        </NuxtLink> -->
+            <NuxtLink to="/sponsoring" class="button secondary outline">
+              Become a sponsor
+            </NuxtLink>
           </div>
         </div>
         <div class="col hide-xs hide-sm">
@@ -60,8 +62,8 @@
   position: relative;
 }
 .background:after {
-  content: '';
-  background: url('/images/leaf.png') center center;
+  content: "";
+  background: url("/images/leaf.png") center center;
   background-size: cover;
   opacity: 0.1;
   top: 0;
