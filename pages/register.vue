@@ -29,7 +29,7 @@
       <table>
         <tr>
           <th>Dates</th>
-          <th>Price</th>
+          <th>Price (excl VAT of 3%)</th>
         </tr>
         <tr>
           <td>September 16 - September 20</td>
@@ -40,7 +40,7 @@
       <table>
         <tr>
           <th>Dates</th>
-          <th>Price</th>
+          <th>Price (excl VAT of 3%)</th>
         </tr>
         <tr>
           <td>September 18 - September 20</td>
@@ -51,7 +51,7 @@
       <table>
         <tr>
           <th>Dates</th>
-          <th>Price</th>
+          <th>Price (excl VAT of 3%)</th>
         </tr>
         <tr>
           <td>September 18 - September 20</td>
