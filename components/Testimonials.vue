@@ -26,14 +26,16 @@
             </div>
             <div>
               <footer class="is-left">
-                <a
-                  class="button clear outline is-paddingless icon-only"
-                  :href="q.github"
-                  rel="noopener"
-                  target="__blank"
-                >
-                  <github-icon />
-                </a>
+                <div v-if="q.github">
+                  <a
+                    class="button clear outline is-paddingless icon-only"
+                    :href="q.github"
+                    rel="noopener"
+                    target="__blank"
+                  >
+                    <github-icon />
+                  </a>
+                </div>
                 <a
                   class="button clear outline is-paddingless icon-only"
                   :href="q.linkedIn"
@@ -81,7 +83,7 @@ const quotes = ref([
     reviewMore:
       "Brighton is an excellent conference that brings together the research and methods that are pushing the boundaries (pun intended) of how LCA is performed. The open-source aspect of the tool (Brightways) and of how the conference itself was ran and organized made it a great learning experience, hands-on and approachable. I really recommend attending and taking advantage of the tutorials, and the various interaction sessions such as the ‘HELP – I need somebody’ session and the Hackathons, were you can explore with more depth some of your own questions and tie it all together with the community’s help.",
     linkedIn: "https://www.linkedin.com/in/silvana-ovaitt/",
-    github: "",
+    github: "https://github.com/shirubana",
   },
   {
     name: "Miguel Fernandez Astudillo",
