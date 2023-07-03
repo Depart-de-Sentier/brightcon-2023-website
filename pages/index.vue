@@ -7,5 +7,8 @@
     <div>
     <PrevCar />
     </div >
+    <div>
+    <Testimonials />
+    </div >
   </div>
 </template>
