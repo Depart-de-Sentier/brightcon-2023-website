@@ -93,7 +93,7 @@ const quotes = ref([
     reviewMore:
       "The sustainability challenges of today need open science. Solutions need to be reproducible (hence credible), robust and reusable. The Brightcon conference is a fantastic gathering to push in this direction. It combines cutting edge research in industrial ecology, with best practices in scientific computing, and a motivated community. I highly recommended it!",
     linkedIn: "https://www.linkedin.com/in/miguel-fastudillo/",
-    github: "",
+    github: "https://github.com/mfastudillo",
   },
 ]);
 </script>
