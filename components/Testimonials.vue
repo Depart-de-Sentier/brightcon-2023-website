@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h2>Testimonials from Brightcon</h2>
+    <h2>Testimonials from Brightcon 2022</h2>
     <div v-for="q in quotes" :key="q.name">
       <div class="row">
         <div class="col">
@@ -74,6 +74,7 @@ const quotes = ref([
     reviewMore:
       "The Brightcon 2022 provided a wonderful opportunity to delve deeper into Brightway and its latest features through a diverse program consisting of classes, conference sessions, and an engaging hackathon. Connecting with the kind, welcoming, and supportive Brightway community was a true highlight, making the Brightcon all the more enjoyable.",
     linkedIn: "https://www.linkedin.com/in/sarah-schmidt-82b187247/",
+    github: "https://github.com/SarahSchmidt94
   },
   {
     name: "Silvana Ovait",
