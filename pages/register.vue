@@ -10,6 +10,11 @@
         <i> on-line </i> the conference only.
       </p>
       <div class="row col is-horizontal-align is-vertical-align">
+        <p class="text-white bg-primary">
+          In person registration deadline: September 11th 2023.
+        </p>
+      </div>
+      <div class="row col is-horizontal-align is-vertical-align">
         <a
           href="https://list.ungerboeck.com/PROD/emc00/register.aspx?OrgCode=10&EvtID=5996&AppCode=REG&CC=123060403651"
           class="button primary"
