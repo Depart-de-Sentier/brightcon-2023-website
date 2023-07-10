@@ -26,9 +26,6 @@
             >
               Calls
             </NuxtLink>
-            <!-- <NuxtLink to="/programme" class="button primary outline">
-              Programme
-            </NuxtLink> -->
             <NuxtLink to="/register" class="button primary">
               <span>Register</span>
             </NuxtLink>
@@ -52,6 +49,11 @@
           </div>
         </div>
       </div>
+    </div>
+    <div class="row col is-vertical-align is-horizontal-align">
+      <NuxtLink to="/programme" class="button secondary">
+        Tentative Programme
+      </NuxtLink>
     </div>
   </div>
 </template>

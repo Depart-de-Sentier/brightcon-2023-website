@@ -28,6 +28,18 @@
         is limited to 80 people, and we expect it to sell out, as it did last
         year.
       </p>
+      The conference part of Brightcon 2023 will include (changes are still
+      possible):
+
+      <ul>
+        <li>Premise hands on</li>
+        <li>Open data</li>
+        <li>Feedback on the Brightcon 2022 visualization contest</li>
+        <li>News from the Brightway development roadmap</li>
+        <li>What's new in the Brightway documentation project</li>
+        <li>Contribution analysis with Brightway and other modules</li>
+	<li>Full SQL database backend solution for Brightway</li>
+      </ul>
     </div>
   </div>
 </template>
