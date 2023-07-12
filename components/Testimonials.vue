@@ -101,10 +101,12 @@ const quotes = ref([
     name: "Anna Sander-Titgemeyer",
     designation: "LCA Practitioner",
     reviewTitle: "",
+    imgUrl: "/images/participants/anna-sander.jpeg",
     reviewMore:
       "As an LCA practitioner, I really enjoyed Brightcon because I could grasp a bit of what is going on 'behind the scenes' of the software we use daily. It was a great pleasure to talk to all the people who work on the software to improve its usability. So take the chance and go to Brightcon to contribute to a software development that fulfils the practitioner's needs.",
     linkedIn:
       "https://www.linkedin.com/in/anna-sander-titgemeyer-sie-ihr-313380156/",
+      github: "https://github.com/asandti"
   },
 ]);
 </script>
