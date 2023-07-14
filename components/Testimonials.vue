@@ -14,7 +14,7 @@
             <p>
               <i>{{ q.reviewMore }} </i>
             </p>
-            <div class="imgbox">
+            <div class="imgbox" v-if="q.imgUrl">
               <NuxtImg
                 :src="q.imgUrl"
                 alt=""
@@ -96,6 +96,17 @@ const quotes = ref([
       "The sustainability challenges of today need open science. Solutions need to be reproducible (hence credible), robust and reusable. The Brightcon conference is a fantastic gathering to push in this direction. It combines cutting edge research in industrial ecology, with best practices in scientific computing, and a motivated community. I highly recommended it!",
     linkedIn: "https://www.linkedin.com/in/miguel-fastudillo/",
     github: "https://github.com/mfastudillo",
+  },
+  {
+    name: "Anna Sander-Titgemeyer",
+    designation: "LCA Practitioner",
+    reviewTitle: "",
+    imgUrl: "/images/participants/anna-sander.jpeg",
+    reviewMore:
+      "As an LCA practitioner, I really enjoyed Brightcon because I could grasp a bit of what is going on 'behind the scenes' of the software we use daily. It was a great pleasure to talk to all the people who work on the software to improve its usability. So take the chance and go to Brightcon to contribute to a software development that fulfils the practitioner's needs.",
+    linkedIn:
+      "https://www.linkedin.com/in/anna-sander-titgemeyer-sie-ihr-313380156/",
+      github: "https://github.com/asandti"
   },
 ]);
 </script>

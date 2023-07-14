@@ -20,18 +20,35 @@
             <!-- <NuxtLink to="/venue" class="button primary outline">
               Venue
             </NuxtLink> -->
-            <NuxtLink
-              href="https://docs.google.com/forms/d/e/1FAIpQLSfnPVKruULk9cR_wC8OKu8QkSv1C7Dl7Pr0mxQELcnGUy37dw/viewform?pli=1"
-              class="button primary outline"
-            >
-              Calls
-            </NuxtLink>
-            <NuxtLink to="/register" class="button primary">
-              <span>Register</span>
-            </NuxtLink>
-            <NuxtLink to="/sponsoring" class="button secondary outline">
-              Become a sponsor
-            </NuxtLink>
+            <div>
+              <NuxtLink
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfnPVKruULk9cR_wC8OKu8QkSv1C7Dl7Pr0mxQELcnGUy37dw/viewform?pli=1"
+                class="button primary outline"
+              >
+                Call for sessions form
+              </NuxtLink>
+            </div>
+            <div>
+              <NuxtLink to="calls" class="button secondary">
+                Call for volunteer on hybrid platform</NuxtLink
+              >
+              <!-- <NuxtLink to="/programme" class="button primary outline">
+              Programme
+            </NuxtLink> -->
+            </div>
+          </div>
+          <div class="row is-horizontal-align">
+            <div>
+              <NuxtLink to="/register" class="button primary">
+                <span>Register</span>
+              </NuxtLink>
+            </div>
+
+            <div>
+              <NuxtLink to="/sponsoring" class="button secondary outline">
+                Become a sponsor
+              </NuxtLink>
+            </div>
           </div>
         </div>
         <div class="col hide-xs hide-sm">

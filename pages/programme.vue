@@ -39,6 +39,7 @@
         <li>What's new in the Brightway documentation project</li>
         <li>Contribution analysis with Brightway and other modules</li>
 	<li>Full SQL database backend solution for Brightway</li>
+	<li>Overview of progress/plans for the AB</li>
       </ul>
     </div>
   </div>
