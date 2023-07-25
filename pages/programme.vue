@@ -72,6 +72,108 @@
         <li>Full SQL database backend solution for Brightway</li>
         <li>Overview of progress/plans for the AB</li>
       </ul>
+      <div class="card">
+        <header>
+          <h3>18 September 2023</h3>
+        </header>
+        <table class="styled-table">
+          <thead>
+            <th>Time</th>
+            <th>Location</th>
+            <th>Event</th>
+          </thead>
+          <tbody>
+            <tr class="active-row">
+              <td>09:30 - 10:00</td>
+              <td>Salle Ellipse</td>
+              <td>Registration</td>
+            </tr>
+            <tr class="active-row">
+              <td>10:00 - 10:30</td>
+              <td>Salle Ellipse</td>
+              <td>Introduction to the conference</td>
+            </tr>
+            <tr class="active-row">
+              <td>10:30 - 12:00</td>
+              <td>Salle Ellipse</td>
+              <td>Interactive talks</td>
+            </tr>
+            <tr class="active-row">
+              <td>14:00 - 15:30</td>
+              <td>Salle Ellipse</td>
+              <td>Course on web assembly and live documentation</td>
+            </tr>
+            <tr class="active-row">
+              <td>15:30 - 17:00</td>
+              <td>Salle Ellipse</td>
+              <td>Panel discussion on benefits and limits of openness</td>
+            </tr>
+            <tr class="active-row">
+              <td>18:00 - 19:00</td>
+              <td>Salle Ellipse</td>
+              <td>Social event - visit of old steel works</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="card">
+        <header>
+          <h3>19 September 2023</h3>
+        </header>
+        <table class="styled-table">
+          <thead>
+            <th>Time</th>
+            <th>Location</th>
+            <th>Event</th>
+          </thead>
+          <tbody>
+            <tr class="active-row">
+              <td>10:00 - 12:00</td>
+              <td>Salle Ellipse</td>
+              <td>Interactive talks</td>
+            </tr>
+            <tr class="active-row">
+              <td>14:00 - 15:30</td>
+              <td>Salle Ellipse</td>
+              <td>Course on prospective LCA</td>
+            </tr>
+            <tr class="active-row">
+              <td>15:30 - 17:00</td>
+              <td>Salle Ellipse</td>
+              <td>Help, I neeed somebody breakout session</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="card">
+        <header>
+          <h3>20 September 2023</h3>
+        </header>
+        <table class="styled-table">
+          <thead>
+            <th>Time</th>
+            <th>Location</th>
+            <th>Event</th>
+          </thead>
+          <tbody>
+            <tr class="active-row">
+              <td>10:00 - 12:00</td>
+              <td>Salle Ellipse</td>
+              <td>Interactive talks</td>
+            </tr>
+            <tr class="active-row">
+              <td>13:30 - 14:00</td>
+              <td>Salle Ellipse</td>
+              <td>Results of hackathon</td>
+            </tr>
+            <tr class="active-row">
+              <td>14:00 - 15:00</td>
+              <td>Salle Ellipse</td>
+              <td>Last reflections and audience feedback</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </div>
 </template>
