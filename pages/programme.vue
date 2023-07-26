@@ -101,7 +101,12 @@
             <tr class="active-row">
               <td>14:00 - 15:30</td>
               <td>Salle Ellipse</td>
-              <td>Course on web assembly and live documentation</td>
+              <td>
+                Course on web assembly and live documentation by
+                <NuxtLink :to="{ hash: '#mw' }" external="True"
+                  >Michael WEINOLD</NuxtLink
+                >
+              </td>
             </tr>
             <tr class="active-row">
               <td>15:30 - 17:00</td>
@@ -135,7 +140,12 @@
             <tr class="active-row">
               <td>14:00 - 15:30</td>
               <td>Salle Ellipse</td>
-              <td>Course on prospective LCA</td>
+              <td>
+                Course on prospective LCA by
+                <NuxtLink :to="{ hash: '#rs' }" external="True"
+                  >Romain SACCHI</NuxtLink
+                >
+              </td>
             </tr>
             <tr class="active-row">
               <td>15:30 - 17:00</td>
@@ -176,6 +186,7 @@
       </div>
     </div>
   </div>
+  <Instructors />
 </template>
 
 <style scoped>
