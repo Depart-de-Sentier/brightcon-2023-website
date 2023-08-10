@@ -28,14 +28,9 @@
                 Call for sessions form
               </NuxtLink>
             </div>
-            <div>
-              <NuxtLink to="calls" class="button secondary">
-                Call for volunteer on hybrid platform</NuxtLink
-              >
-              <!-- <NuxtLink to="/programme" class="button primary outline">
+            <!-- <NuxtLink to="/programme" class="button primary outline">
               Programme
             </NuxtLink> -->
-            </div>
           </div>
           <div class="row is-horizontal-align">
             <div>
