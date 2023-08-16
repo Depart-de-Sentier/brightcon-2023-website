@@ -62,6 +62,21 @@
           <td>September 18 - September 20</td>
           <td>100€</td>
         </tr>
+        <tr>
+          <td></td>
+          <td class="bg-success">
+            <p>
+              Free for
+              <a
+                href="https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries"
+              >
+                low and middle income countries</a
+              >
+            </p>
+
+            <i>At registration moment, click on the "non OECD country" option</i>
+          </td>
+        </tr>
       </table>
     </div>
   </div>
