@@ -1,10 +1,14 @@
 <script setup lang="ts">
 const palladiumSponsorsEnabled = false;
-const goldSponsorsEnabled = false;
+const goldSponsorsEnabled = true;
 const nickelSponsorsEnabled = true;
 const sponsorsTitle = "Thanks to our Sponsors!";
 const palladiumSponsors = [{}];
-const goldSponsors = [{}];
+const goldSponsors = [{
+    url: "https://lca-net.com/",
+    imageSrc: "/images/sponsors/2.-0_logo_white_background_-1.svg",
+    imageAlt: "2.0 lca consultants logo",
+}];
 const silverSponsors = [{}];
 const nickelSponsors = [
   {
