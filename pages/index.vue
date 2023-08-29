@@ -5,6 +5,10 @@
     <ThisYear />
     <br />
     <div>
+    <OurPartners/>
+    </div >
+    <br />
+    <div>
     <OurSponsors />
     </div >
     <div>
