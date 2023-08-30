@@ -58,6 +58,11 @@
               Participants will have the opportunity to become members of
               <a href="https://www.d-d-s.ch">Départ de Sentier</a>.
             </p>
+            <p class="row col is-vertical-align is-horizontal-align">
+              <NuxtLink to="/venue" class="button dark">
+                Venue Details
+              </NuxtLink>
+            </p>
           </div>
         </div>
       </div>
