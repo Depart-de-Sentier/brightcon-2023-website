@@ -6,14 +6,14 @@ const sponsorsTitle = "Thanks to our Sponsors!";
 const palladiumSponsors = [{}];
 const goldSponsors = [{
     url: "https://lca-net.com/",
-    imageSrc: "/images/sponsors/2.-0_logo_white_background_-1.svg",
+    imageSrc: "/images/sponsors/2.-0_logo_white_background_-1.png",
     imageAlt: "2.0 lca consultants logo",
 }];
 const silverSponsors = [{}];
 const nickelSponsors = [
   {
     url: "https://www.cauldron.ch/",
-    imageSrc: "/images/sponsors/Cauldron logo cropped.jpg",
+    imageSrc: "/images/sponsors/cauldron_logo_cropped.jpg",
     imageAlt: "Logo Cauldron",
   },
 ];
