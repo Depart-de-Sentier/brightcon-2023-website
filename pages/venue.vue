@@ -252,10 +252,10 @@ const hotels = [
     comment: "Near the train station of Belval",
     adress: "12, avenue du Rock’n Roll (Belval) L-4361 Esch-sur-Alzette",
     price:
-      "113 € /night (single room + breakfast) | 123 €/night (twin or double room + breakfast)",
+      "Available until September 1st 2023, 113 € /night (single room + breakfast) | 123 €/night (twin or double room + breakfast)",
     tel: "(+352)261731",
     mail: "H7071-BO@accor.com",
-    reservation: "15 rooms in option until 10/09/2023",
+    reservation: "15 rooms in option until September 1st. 2023",
     formUrl: "/Reservation_form_IBIS_Belval.pdf",
   },
   {
@@ -268,7 +268,7 @@ const hotels = [
       "140 € (1 person room only), 155 € (room and breakfast) single room, 170 € (room and breakfast) double room",
     tel: "",
     mail: "Luxembourg.eschbelval@residhome.com",
-    reservation: "15 rooms in option until 10/09/2023",
+    reservation: "15 rooms in option until September 1st 2023",
     formUrl: "/Reservation_form_RESID_HOME_Belval.pdf",
   },
 ];
