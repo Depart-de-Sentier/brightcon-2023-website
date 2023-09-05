@@ -94,29 +94,49 @@
               <td>Introduction to the conference</td>
             </tr>
             <tr class="active-row">
-              <td>10:30 - 12:00</td>
+              <td>10:30 - 11:30</td>
               <td>Salle Ellipse</td>
-              <td>Interactive talks</td>
+              <td>What would an opensource database for MFA look like? (workshop with groups) by
+                <NuxtLink :to="{ hash: '#svn' }" external="True"
+                  >Sander VAN NIELEN</NuxtLink
+                >
+	      </td>
             </tr>
             <tr class="active-row">
-              <td>14:00 - 15:30</td>
+              <td>11:30 - 12:00</td>
+              <td>Salle Ellipse</td>
+              <td>Cycling from data island to island, by Crhis MUTEL</td>
+            </tr>
+            <tr class="active-row">
+              <td>13:15 - 14:00</td>
+              <td>Salle Ellipse</td>
+              <td>Using the GTDR Database, by Valentin STARLINGER</td>
+            </tr>
+            <tr class="active-row">
+              <td>14:00 - 15:00</td>
               <td>Salle Ellipse</td>
               <td>
-                Course on web assembly and live documentation by
+		      Brightway in the Browser (workshop)
                 <NuxtLink :to="{ hash: '#mw' }" external="True"
                   >Michael WEINOLD</NuxtLink
                 >
               </td>
             </tr>
             <tr class="active-row">
-              <td>15:30 - 17:00</td>
+              <td>14:00 - 15:00</td>
+              <td>Salle Ellipse</td>
+              <td> Prioritizin Brightway development (workshop) by Tomás NAVARRETE GUTIÉRREZ
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>16:00 - 17:00</td>
               <td>Salle Ellipse</td>
               <td>Panel discussion on benefits and limits of openness</td>
             </tr>
             <tr class="active-row">
-              <td>18:00 - 19:00</td>
+              <td>18:00 - 20:00</td>
               <td>Salle Ellipse</td>
-              <td>Social event - visit of old steel works</td>
+              <td>Social event - location TBC</td>
             </tr>
           </tbody>
         </table>

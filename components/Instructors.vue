@@ -74,6 +74,15 @@ const instructors = ref([
     linkedIn: "https://www.linkedin.com/in/romainsacchi/",
     github: "https://github.com/romainsacchi",
   },
+  {
+    name: "Sander van Nielen",
+    instid: "svn",
+    designation: "",
+    imgUrl: "/images/instructors/sander-van-nielen.jpg",
+    bio: "Sander van Nielen obtained his MSc in Industrial Ecology in Leiden in 2016. Afterwards, he worked at the municipal engineering department in Rotterdam for two years. Now he is back at CML, doing PhD research on the recycling of rare earth magnets. His research focusses on the development of ex-ante LCA methods and the resilience of supply chains. By combining insights from industry partners with sophisticated computational methods, more insight in the environmental aspects of magnet recycling will be created. ",
+    linkedIn: "https://www.linkedin.com/in/sandervannielen/",
+    github: "",
+  },
 ]);
 </script>
 
