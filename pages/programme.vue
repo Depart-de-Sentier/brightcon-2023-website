@@ -96,11 +96,17 @@
             <tr class="active-row">
               <td>10:30 - 11:30</td>
               <td>Salle Ellipse</td>
-              <td>What would an opensource database for MFA look like? (workshop with groups) by
+              <td>
+                What would an opensource database for MFA look like? (workshop
+                with groups) by
                 <NuxtLink :to="{ hash: '#svn' }" external="True"
                   >Sander VAN NIELEN</NuxtLink
                 >
-	      </td>
+                and
+                <NuxtLink :to="{ hash: '#smd' }" external="True"
+                  >Stewart MACDOWALL</NuxtLink
+                >
+              </td>
             </tr>
             <tr class="active-row">
               <td>11:30 - 12:00</td>
@@ -116,7 +122,7 @@
               <td>14:00 - 15:00</td>
               <td>Salle Ellipse</td>
               <td>
-		      Brightway in the Browser (workshop)
+                Brightway in the Browser (workshop) by
                 <NuxtLink :to="{ hash: '#mw' }" external="True"
                   >Michael WEINOLD</NuxtLink
                 >
@@ -125,7 +131,9 @@
             <tr class="active-row">
               <td>14:00 - 15:00</td>
               <td>Salle Ellipse</td>
-              <td> Prioritizin Brightway development (workshop) by Tomás NAVARRETE GUTIÉRREZ
+              <td>
+                Prioritizin Brightway development (workshop) by Tomás NAVARRETE
+                GUTIÉRREZ
               </td>
             </tr>
             <tr class="active-row">
@@ -153,9 +161,36 @@
           </thead>
           <tbody>
             <tr class="active-row">
-              <td>10:00 - 12:00</td>
+              <td>10:00 - 10:45</td>
               <td>Salle Ellipse</td>
-              <td>Interactive talks</td>
+              <td>
+                Leveraging Large Language Models and Vector Databases for
+                Exploring Life Cycle Inventory Databases by
+                <NuxtLink :to="{ hash: '#sy' }" external="True"
+                  >Selim YOUSSRY</NuxtLink
+                >
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>10:45 - 11:45</td>
+              <td>Salle Ellipse</td>
+              <td>
+                Presentation of the EOS-Platform from Eaternity (group exercise)
+                by
+                <NuxtLink :to="{ hash: '#mk' }" external="True"
+                  >Manuel KLARMAN</NuxtLink
+                >
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>13:00 - 14:00</td>
+              <td>Salle Ellipse</td>
+              <td>
+                A more strict SQL schema for Brightway (group exercise), by
+                <NuxtLink :to="{ hash: '#mk' }" external="True"
+                  >Bartolomeus HÄUSSLING LÖWGREN</NuxtLink
+                >
+              </td>
             </tr>
             <tr class="active-row">
               <td>14:00 - 15:30</td>
@@ -168,7 +203,37 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>15:30 - 17:00</td>
+              <td>15:30 - 15:45</td>
+              <td>Salle Ellipse</td>
+              <td>
+                pyecospold and pyilcd, by
+                <NuxtLink :to="{ hash: '#ms' }" external="True"
+                  >Mina SAMI</NuxtLink
+                >
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>15:45 - 16:00</td>
+              <td>Salle Ellipse</td>
+              <td>
+                Adapting bw_processing to Parquet by
+                <NuxtLink :to="{ hash: '#nvo' }" external="True"
+                  >Nikolaj van OMME</NuxtLink
+                >
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>16:30 - 17:00</td>
+              <td>Salle Ellipse</td>
+              <td>
+                ILCD Importer for bw2io by
+                <NuxtLink :to="{ hash: '#vs' }" external="True"
+                  >Valentin STARLINGER</NuxtLink
+                >
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>17:00 - 17:30</td>
               <td>Salle Ellipse</td>
               <td>Help, I neeed somebody breakout session</td>
             </tr>
