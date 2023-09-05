@@ -21,11 +21,8 @@
               Venue
             </NuxtLink> -->
             <div>
-              <NuxtLink
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfnPVKruULk9cR_wC8OKu8QkSv1C7Dl7Pr0mxQELcnGUy37dw/viewform?pli=1"
-                class="button primary outline"
-              >
-                Call for sessions form
+              <NuxtLink href="#" class="button primary outline">
+                <s>Call for sessions form</s>
               </NuxtLink>
             </div>
             <!-- <NuxtLink to="/programme" class="button primary outline">

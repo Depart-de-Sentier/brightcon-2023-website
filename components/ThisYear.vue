@@ -3,7 +3,7 @@
     <div class="row is-vertical-align is-horizontal-align hero">
       <!-- Jai guru de va om -->
       <h2>
-        🌱👩‍💻 Brightcon 2023 - Registration and Talk Submission Now Open! 🌍🌿
+	      🌱👩‍💻 Brightcon 2023 - Registration and Talk Submission <s>Now Open </s>! 🌍🌿
       </h2>
       <p>
         The theme this year is "Broad Open Sustainability Community", and we
