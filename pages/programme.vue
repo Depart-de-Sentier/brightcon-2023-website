@@ -94,7 +94,17 @@
               <td>Introduction to the conference</td>
             </tr>
             <tr class="active-row">
-              <td>10:30 - 11:30</td>
+              <td>10:30 - 10:45</td>
+              <td>Salle Ellipse</td>
+              <td>Special Presentation by Strategic and Innovative Lead Partner: 
+                <NuxtLink to="https://ecoinvent.org" external="True"
+                  >ECOINVENT</NuxtLink
+                >
+
+		      </td>
+            </tr>
+            <tr class="active-row">
+              <td>10:45 - 11:30</td>
               <td>Salle Ellipse</td>
               <td>
                 What would an opensource database for MFA look like? (workshop
@@ -109,7 +119,7 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>11:30 - 12:00</td>
+              <td>11:45 - 12:15</td>
               <td>Salle Ellipse</td>
               <td>Cycling from data island to island, by Crhis MUTEL</td>
             </tr>
@@ -252,17 +262,39 @@
           </thead>
           <tbody>
             <tr class="active-row">
-              <td>10:00 - 12:00</td>
+              <td>10:00 - 10:45</td>
               <td>Salle Ellipse</td>
-              <td>Interactive talks</td>
+              <td>Current and future developments of the Activity Browser, by 
+                <NuxtLink :to="{ hash: '#vs' }" external="True"
+                  >Bernhard STEUBING</NuxtLink
+                >
+	      </td>
             </tr>
             <tr class="active-row">
-              <td>13:30 - 14:00</td>
+              <td>10:45 - 11:00</td>
+              <td>Salle Ellipse</td>
+              <td>Matchbox: Matching mismatched databases by 
+                <NuxtLink :to="{ hash: '#cmhimself' }" external="True"
+                  >Chris MUTEL</NuxtLink
+                >
+	      </td>
+            </tr>
+            <tr class="active-row">
+              <td>11:00 - 12:00</td>
+              <td>Salle Ellipse</td>
+              <td>Practical Life Cycle Sustainability Assessment by 
+                <NuxtLink :to="{ hash: '#hz' }" external="True"
+                  >Hanie ZARAFSHANI</NuxtLink
+                >
+	      </td>
+            </tr>
+            <tr class="active-row">
+              <td>13:00 - 14:15</td>
               <td>Salle Ellipse</td>
               <td>Results of hackathon</td>
             </tr>
             <tr class="active-row">
-              <td>14:00 - 15:00</td>
+              <td>14:15 - 15:00</td>
               <td>Salle Ellipse</td>
               <td>Last reflections and audience feedback</td>
             </tr>
