@@ -119,7 +119,7 @@
           </div>
         </div>
         <div>
-          <h5>Prices <b> in 2022 </b>:</h5>
+          <h5><b> special conference</b> Prices :</h5>
           <div>
             <p class="with-indent">{{ hotel.price }}</p>
           </div>
@@ -136,7 +136,6 @@
         </div>
 
         <div class="grow"></div>
-	<!-- 
         <div>
           <h5>Reservation:</h5>
           <div>
@@ -155,7 +154,6 @@
             </div>
           </div>
         </div>
-	-->
       </div>
     </div>
 
@@ -253,11 +251,12 @@ const hotels = [
       "https://all.accor.com/hotel/7071/index.fr.shtml?utm_term=mar&gclid=Cj0KCQjw-daUBhCIARIsALbkjSbTel61VKraL5IinXv1RPui8zPTg62vH8mChZ2gxhK0sFhpfGL9e-MaAsy2EALw_wcB&utm_campaign=ppc-ibi-mar-goo-be-fr-reg_top-mix-se&utm_medium=cpc&utm_content=be-fr-LU-V1243&utm_source=google",
     comment: "Near the train station of Belval",
     adress: "12, avenue du Rock’n Roll (Belval) L-4361 Esch-sur-Alzette",
-    price: "105 € /night (single room) | 120 €/night (double room)",
+    price:
+      "113 € /night (single room + breakfast) | 123 €/night (twin or double room + breakfast)",
     tel: "(+352)261731",
     mail: "H7071-BO@accor.com",
-    reservation: "20 rooms in option until 24/08/2022",
-    formUrl: "/hotelforms/Reservation_Form_Ibis.pdf",
+    reservation: "15 rooms in option until 10/09/2023",
+    formUrl: "/Reservation_form_IBIS_Belval.pdf",
   },
   {
     name: "ResidHome Luxembourg Esch-Belval",
@@ -265,11 +264,12 @@ const hotels = [
       "https://www.myresidhome.com/esch-sur-alzette/residhome-luxembourg-esch-belval/apparthotel-residence-hoteliere.html?utm_source=adwords&utm_medium=content&utm_campaign=DSA_Gen_Ann3",
     comment: "5 minutes walk from the conference venue",
     adress: "3 Bd du Jazz (Belval) L-4370 Esch-sur-Alzette",
-    price: "120 € (1 person with breakfast)",
+    price:
+      "140 € (1 person room only), 155 € (room and breakfast) single room, 170 € (room and breakfast) double room",
     tel: "",
     mail: "Luxembourg.eschbelval@residhome.com",
-    reservation: "20 rooms in option until 24/08/2022",
-    formUrl: "/hotelforms/Bon_BRIGHTCON_2022.pdf",
+    reservation: "15 rooms in option until 10/09/2023",
+    formUrl: "/Reservation_form_RESID_HOME_Belval.pdf",
   },
 ];
 </script>
