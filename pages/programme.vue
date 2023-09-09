@@ -89,39 +89,50 @@
               <td>Registration</td>
             </tr>
             <tr class="active-row">
-              <td>10:00 - 10:30</td>
+              <td>10:00 - 10:20</td>
               <td>Salle Ellipse</td>
               <td>Introduction to the conference</td>
             </tr>
             <tr class="active-row">
-              <td>10:30 - 10:45</td>
-              <td>Salle Ellipse</td>
-              <td>Special Presentation by Strategic and Innovative Lead Partner: 
-                <NuxtLink to="https://ecoinvent.org" external="True"
-                  >ECOINVENT</NuxtLink
-                >
-
-		      </td>
-            </tr>
-            <tr class="active-row">
-              <td>10:45 - 11:30</td>
+              <td>10:20 - 10:30</td>
               <td>Salle Ellipse</td>
               <td>
-                What would an opensource database for MFA look like? (workshop
-                with groups) by
-                <NuxtLink :to="{ hash: '#svn' }" external="True"
-                  >Sander VAN NIELEN</NuxtLink
-                >
-                and
-                <NuxtLink :to="{ hash: '#smd' }" external="True"
-                  >Stewart MACDOWALL</NuxtLink
+                Special Presentation by Strategic and Innovative Lead Partner:
+                <NuxtLink to="https://ecoinvent.org" external="true"
+                  >ECOINVENT</NuxtLink
                 >
               </td>
             </tr>
             <tr class="active-row">
-              <td>11:45 - 12:15</td>
+              <td>10:30 - 12:00</td>
               <td>Salle Ellipse</td>
-              <td>Cycling from data island to island, by Crhis MUTEL</td>
+              <td>
+                What would an opensource database for MFA look like? (workshop
+                with groups) by
+                <NuxtLink :to="{ hash: '#svn' }" external="true"
+                  >Sander VAN NIELEN</NuxtLink
+                >
+                and
+                <NuxtLink :to="{ hash: '#smd' }" external="true"
+                  >Stewart MACDOWALL</NuxtLink
+                >
+                <span class="tag">workshop</span>
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>12:00 - 13:00</td>
+              <td>Salle Ellipse</td>
+              <td>LUNCH</td>
+            </tr>
+            <tr class="active-row">
+              <td>13:00 - 13:15</td>
+              <td>Salle Ellipse</td>
+              <td>
+                Visualization contest results
+                <NuxtLink :to="{ hash: '#kt' }" external="true"
+                  >Karin TREYER</NuxtLink
+                >
+              </td>
             </tr>
             <tr class="active-row">
               <td>13:15 - 14:00</td>
@@ -133,17 +144,22 @@
               <td>Salle Ellipse</td>
               <td>
                 Brightway in the Browser (workshop) by
-                <NuxtLink :to="{ hash: '#mw' }" external="True"
+                <NuxtLink :to="{ hash: '#mw' }" external="true"
                   >Michael WEINOLD</NuxtLink
                 >
               </td>
             </tr>
             <tr class="active-row">
-              <td>14:00 - 15:00</td>
+              <td>15:00 - 15:30</td>
+              <td>Salle Ellipse</td>
+              <td>Cycling from data island to island, by Crhis MUTEL</td>
+            </tr>
+            <tr class="active-row">
+              <td>15:30 - 16:00</td>
               <td>Salle Ellipse</td>
               <td>
-                Prioritizin Brightway development (workshop) by Tomás NAVARRETE
-                GUTIÉRREZ
+                Prioritizin Brightway development by Tomás NAVARRETE GUTIÉRREZ
+                <span class="tag">workshop</span>
               </td>
             </tr>
             <tr class="active-row">
@@ -176,7 +192,7 @@
               <td>
                 Leveraging Large Language Models and Vector Databases for
                 Exploring Life Cycle Inventory Databases by
-                <NuxtLink :to="{ hash: '#sy' }" external="True"
+                <NuxtLink :to="{ hash: '#sy' }" external="true"
                   >Selim YOUSSRY</NuxtLink
                 >
               </td>
@@ -187,19 +203,29 @@
               <td>
                 Presentation of the EOS-Platform from Eaternity (group exercise)
                 by
-                <NuxtLink :to="{ hash: '#mk' }" external="True"
+                <NuxtLink :to="{ hash: '#mk' }" external="true"
                   >Manuel KLARMAN</NuxtLink
                 >
               </td>
+            </tr>
+            <tr class="active-row">
+              <td>11:45 - 12:00</td>
+              <td>Salle Ellipse</td>
+              <td>Brightcon Awards</td>
+            </tr>
+            <tr class="active-row">
+              <td>12:00 - 13:00</td>
+              <td>Salle Ellipse</td>
+              <td>Lunch</td>
             </tr>
             <tr class="active-row">
               <td>13:00 - 14:00</td>
               <td>Salle Ellipse</td>
               <td>
                 A more strict SQL schema for Brightway (group exercise), by
-                <NuxtLink :to="{ hash: '#mk' }" external="True"
+                <NuxtLink :to="{ hash: '#mk' }" external="true"
                   >Bartolomeus HÄUSSLING LÖWGREN</NuxtLink
-                >
+		  > <span class="tag">group exercise</span>
               </td>
             </tr>
             <tr class="active-row">
@@ -207,7 +233,7 @@
               <td>Salle Ellipse</td>
               <td>
                 Course on prospective LCA by
-                <NuxtLink :to="{ hash: '#rs' }" external="True"
+                <NuxtLink :to="{ hash: '#rs' }" external="true"
                   >Romain SACCHI</NuxtLink
                 >
               </td>
@@ -217,7 +243,7 @@
               <td>Salle Ellipse</td>
               <td>
                 pyecospold and pyilcd, by
-                <NuxtLink :to="{ hash: '#ms' }" external="True"
+                <NuxtLink :to="{ hash: '#ms' }" external="true"
                   >Mina SAMI</NuxtLink
                 >
               </td>
@@ -227,7 +253,7 @@
               <td>Salle Ellipse</td>
               <td>
                 Adapting bw_processing to Parquet by
-                <NuxtLink :to="{ hash: '#nvo' }" external="True"
+                <NuxtLink :to="{ hash: '#nvo' }" external="true"
                   >Nikolaj van OMME</NuxtLink
                 >
               </td>
@@ -237,7 +263,7 @@
               <td>Salle Ellipse</td>
               <td>
                 ILCD Importer for bw2io by
-                <NuxtLink :to="{ hash: '#vs' }" external="True"
+                <NuxtLink :to="{ hash: '#vs' }" external="true"
                   >Valentin STARLINGER</NuxtLink
                 >
               </td>
@@ -245,7 +271,7 @@
             <tr class="active-row">
               <td>17:00 - 17:30</td>
               <td>Salle Ellipse</td>
-              <td>Help, I neeed somebody breakout session</td>
+              <td>"Help, I neeed somebody" breakout session</td>
             </tr>
           </tbody>
         </table>
@@ -262,31 +288,34 @@
           </thead>
           <tbody>
             <tr class="active-row">
-              <td>10:00 - 10:45</td>
+              <td>10:00 - 10:30</td>
               <td>Salle Ellipse</td>
-              <td>Current and future developments of the Activity Browser, by 
-                <NuxtLink :to="{ hash: '#vs' }" external="True"
+              <td>
+                Current and future developments of the Activity Browser, by
+                <NuxtLink :to="{ hash: '#vs' }" external="true"
                   >Bernhard STEUBING</NuxtLink
                 >
-	      </td>
+              </td>
             </tr>
             <tr class="active-row">
-              <td>10:45 - 11:00</td>
+              <td>10:30 - 11:00</td>
               <td>Salle Ellipse</td>
-              <td>Matchbox: Matching mismatched databases by 
-                <NuxtLink :to="{ hash: '#cmhimself' }" external="True"
+              <td>
+                Matchbox: Matching mismatched databases by
+                <NuxtLink :to="{ hash: '#cmhimself' }" external="true"
                   >Chris MUTEL</NuxtLink
                 >
-	      </td>
+              </td>
             </tr>
             <tr class="active-row">
               <td>11:00 - 12:00</td>
               <td>Salle Ellipse</td>
-              <td>Practical Life Cycle Sustainability Assessment by 
-                <NuxtLink :to="{ hash: '#hz' }" external="True"
+              <td>
+                Practical Life Cycle Sustainability Assessment by
+                <NuxtLink :to="{ hash: '#hz' }" external="true"
                   >Hanie ZARAFSHANI</NuxtLink
                 >
-	      </td>
+              </td>
             </tr>
             <tr class="active-row">
               <td>13:00 - 14:15</td>
