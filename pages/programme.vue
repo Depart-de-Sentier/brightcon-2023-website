@@ -150,12 +150,25 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>15:00 - 15:30</td>
+              <td>15:00 - 15:45</td>
+              <td>Salle Ellipse</td>
+              <td>Coffee Break</td>
+            </tr>
+            <tr class="active-row">
+              <td>15:45 - 16:00</td>
               <td>Salle Ellipse</td>
               <td>Cycling from data island to island, by Crhis MUTEL</td>
             </tr>
             <tr class="active-row">
-              <td>15:30 - 16:00</td>
+              <td>16:00 - 17:00</td>
+              <td>Salle Ellipse</td>
+              <td>
+                Panel discussion on benefits and limits of openness, by Chris
+                MUTEL and Oliver KUSCHE
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>17:00 - 17:30</td>
               <td>Salle Ellipse</td>
               <td>
                 Prioritizin Brightway development by Tomás NAVARRETE GUTIÉRREZ
@@ -163,14 +176,9 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>16:00 - 17:00</td>
-              <td>Salle Ellipse</td>
-              <td>Panel discussion on benefits and limits of openness</td>
-            </tr>
-            <tr class="active-row">
               <td>18:00 - 20:00</td>
               <td>Salle Ellipse</td>
-              <td>Social event - location TBC</td>
+              <td>Welcome drink</td>
             </tr>
           </tbody>
         </table>
@@ -187,7 +195,7 @@
           </thead>
           <tbody>
             <tr class="active-row">
-              <td>10:00 - 10:45</td>
+              <td>9:15 - 10:00</td>
               <td>Salle Ellipse</td>
               <td>
                 Leveraging Large Language Models and Vector Databases for
@@ -198,7 +206,7 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>10:45 - 11:45</td>
+              <td>10:00 - 10:45</td>
               <td>Salle Ellipse</td>
               <td>
                 Presentation of the EOS-Platform from Eaternity (group exercise)
@@ -209,9 +217,20 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>11:45 - 12:00</td>
+              <td>10:45 - 11:00</td>
               <td>Salle Ellipse</td>
-              <td>Brightcon Awards</td>
+              <td>Coffee Break</td>
+            </tr>
+            <tr class="active-row">
+              <td>11:00 - 12:00</td>
+              <td>Salle Ellipse</td>
+              <td>
+                A more strict SQL schema for Brightway (group exercise), by
+                <NuxtLink :to="{ hash: '#mk' }" external="true"
+                  >Bartolomeus HÄUSSLING LÖWGREN</NuxtLink
+                >
+                <span class="tag">workshop</span>
+              </td>
             </tr>
             <tr class="active-row">
               <td>12:00 - 13:00</td>
@@ -219,17 +238,12 @@
               <td>Lunch</td>
             </tr>
             <tr class="active-row">
-              <td>13:00 - 14:00</td>
+              <td>13:00 - 13:15</td>
               <td>Salle Ellipse</td>
-              <td>
-                A more strict SQL schema for Brightway (group exercise), by
-                <NuxtLink :to="{ hash: '#mk' }" external="true"
-                  >Bartolomeus HÄUSSLING LÖWGREN</NuxtLink
-		  > <span class="tag">group exercise</span>
-              </td>
+              <td>Brightcon Awards</td>
             </tr>
             <tr class="active-row">
-              <td>14:00 - 15:30</td>
+              <td>13:15 - 14:45</td>
               <td>Salle Ellipse</td>
               <td>
                 Course on prospective LCA by
@@ -237,6 +251,11 @@
                   >Romain SACCHI</NuxtLink
                 >
               </td>
+            </tr>
+            <tr class="active-row">
+              <td>14:45 - 15:30</td>
+              <td>Salle Ellipse</td>
+              <td>Coffee Break</td>
             </tr>
             <tr class="active-row">
               <td>15:30 - 15:45</td>
@@ -249,7 +268,7 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>15:45 - 16:00</td>
+              <td>15:45 - 16:30</td>
               <td>Salle Ellipse</td>
               <td>
                 Adapting bw_processing to Parquet by
@@ -273,6 +292,11 @@
               <td>Salle Ellipse</td>
               <td>"Help, I neeed somebody" breakout session</td>
             </tr>
+            <tr class="active-row">
+              <td>18:00 - 22:00</td>
+              <td>Salle Ellipse</td>
+              <td>Social gathering</td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -288,7 +312,7 @@
           </thead>
           <tbody>
             <tr class="active-row">
-              <td>10:00 - 10:30</td>
+              <td>9:15 - 9:45</td>
               <td>Salle Ellipse</td>
               <td>
                 Current and future developments of the Activity Browser, by
@@ -298,7 +322,7 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>10:30 - 11:00</td>
+              <td>9:45 - 10:15</td>
               <td>Salle Ellipse</td>
               <td>
                 Matchbox: Matching mismatched databases by
@@ -308,7 +332,12 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>11:00 - 12:00</td>
+              <td>10:15 - 10:45</td>
+              <td>Salle Ellipse</td>
+              <td>Coffee Break</td>
+            </tr>
+            <tr class="active-row">
+              <td>10:45 - 12:00</td>
               <td>Salle Ellipse</td>
               <td>
                 Practical Life Cycle Sustainability Assessment by
@@ -316,6 +345,11 @@
                   >Hanie ZARAFSHANI</NuxtLink
                 >
               </td>
+            </tr>
+            <tr class="active-row">
+              <td>12:00 - 13:00</td>
+              <td>Salle Ellipse</td>
+              <td>Lunch</td>
             </tr>
             <tr class="active-row">
               <td>13:00 - 14:15</td>
