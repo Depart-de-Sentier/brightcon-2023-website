@@ -8,16 +8,22 @@
     <a
       href="https://www.list.lu/fileadmin/files/2022_ACCESS_MAP_BELVAL_BELVAUX_EN.pdf"
     >
-      Here's an overview of the different LIST sites. For Belvaux, Look for item
-      3
+      Here's an overview of the different LIST sites.
     </a>
+    <p class="text-dark">
+      For Belvaux (the hackathon venue place), Look for item 3
+    </p>
+
     <h3>Conference location</h3>
     The conference of Sept. 18-20 will be held on: Ellipse room of the
-    <a href="https://wwwfr.uni.lu/luxembourg_learning_centre"
+    <a href="https://www.uni.lu/llc-en/"
       >Luxembourg Learning Centre (library of the University of Luxembourg) </a
     >.
     <p></p>
-    <h4>Directions</h4>
+    <h4>
+      Directions to Conference location (Belval Campus, Ellipse room of uni.lu
+      Learning Center)
+    </h4>
     <ul>
       <li>
         When you get out of the Belval-Université train station head to the
@@ -32,8 +38,15 @@
     <h3>Hackathon location</h3>
     The hackathon of Sept. 16, 17, will be held on the Belvaux building of LIST,
     <b>rooms F011-A and F011-B</b>:
-    <p>41 rue du Brill, L-4422 Belvaux, Tel. : +352 275 888 1</p>
-    <h4>Directions</h4>
+    <div class="card">
+      <p>
+        41 rue du Brill <br />
+        L-4422 Belvaux <br />
+        Luxembourg <br />
+      </p>
+      <p>Tel. : +352 275 888 1</p>
+    </div>
+    <h4>Directions to hackathon location (Belvaux building of LIST)</h4>
     <ul>
       <li>
         <a href="/maps/Directions_Gare_Belval_LIST.pdf">

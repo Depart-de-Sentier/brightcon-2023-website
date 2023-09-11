@@ -2,6 +2,8 @@
   <div>
     <LandingPage />
     <br />
+    <QuickDirections />
+    <br />
     <ThisYear />
     <br />
     <div>

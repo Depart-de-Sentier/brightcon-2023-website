@@ -60,16 +60,6 @@
                 Venue Details
               </NuxtLink>
             </p>
-            <div class="bg-dark">
-              <p class="text-white">
-                Special prices for hotel reservations are available at hotels
-                <NuxtLink to="/Reservation_form_IBIS_Belval.pdf">IBIS</NuxtLink>
-                and
-                <NuxtLink to="/Reservation_form_RESID_HOME_Belval.pdf"
-                  >RESID'HOME</NuxtLink
-                >. Please take a look at the venue details page.
-              </p>
-            </div>
           </div>
         </div>
       </div>

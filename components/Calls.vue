@@ -2,6 +2,8 @@
   <div class="container">
     <div>
       <h1>Calls</h1>
+      <h2>Call for posters</h2>
+      If you have something to show in the form of a poster, bring the poster with you !
       <h2>Call for sessions</h2>
 
       <p>
