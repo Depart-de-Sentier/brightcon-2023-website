@@ -3,7 +3,7 @@
     <h1>Venue</h1>
     <h2>Location</h2>
     Brightcon 2023 will take place in the
-    <a href="https://www.belval.lu/en/">Belval campus</a> of Esch-sur-Alzette,
+    <a href="https://www.agora.lu/belval/belval/">Belval campus</a> of Esch-sur-Alzette,
     Luxembourg.
     <a
       href="https://www.list.lu/fileadmin/files/2022_ACCESS_MAP_BELVAL_BELVAUX_EN.pdf"
