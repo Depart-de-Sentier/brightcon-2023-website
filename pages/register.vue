@@ -74,7 +74,12 @@
               >
             </p>
 
-            <i>At registration moment, click on the "non OECD country" option</i>
+            <i
+              >Before registering, please send a copy of your ID to
+              "tomas.navarrete@list.lu", and then we will send you a special
+              registration code to use at the end of the registration process to
+              make it free.</i
+            >
           </td>
         </tr>
       </table>
