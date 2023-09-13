@@ -89,19 +89,9 @@
               <td>Registration</td>
             </tr>
             <tr class="active-row">
-              <td>10:00 - 10:20</td>
+              <td>10:00 - 10:30</td>
               <td>Salle Ellipse</td>
               <td>Introduction to the conference</td>
-            </tr>
-            <tr class="active-row">
-              <td>10:20 - 10:30</td>
-              <td>Salle Ellipse</td>
-              <td>
-                Special Presentation by Strategic and Innovative Lead Partner:
-                <NuxtLink to="https://ecoinvent.org" external="true"
-                  >ECOINVENT</NuxtLink
-                >
-              </td>
             </tr>
             <tr class="active-row">
               <td>10:30 - 12:00</td>
@@ -111,10 +101,6 @@
                 with groups) by
                 <NuxtLink :to="{ hash: '#svn' }" external="true"
                   >Sander VAN NIELEN</NuxtLink
-                >
-                and
-                <NuxtLink :to="{ hash: '#smd' }" external="true"
-                  >Stewart MACDOWALL</NuxtLink
                 >
                 <span class="tag">workshop</span>
               </td>
@@ -137,7 +123,12 @@
             <tr class="active-row">
               <td>13:15 - 14:00</td>
               <td>Salle Ellipse</td>
-              <td>Using the GTDR Database, by Valentin STARLINGER</td>
+              <td>
+                Using the GTDR Database, by
+                <NuxtLink :to="{ hash: '#vs' }" external="true"
+                  >Valentin STARLINGER</NuxtLink
+                >
+              </td>
             </tr>
             <tr class="active-row">
               <td>14:00 - 15:00</td>
@@ -157,21 +148,35 @@
             <tr class="active-row">
               <td>15:45 - 16:00</td>
               <td>Salle Ellipse</td>
-              <td>Cycling from data island to island, by Crhis MUTEL</td>
+              <td>
+                Cycling from data island to island, by
+                <NuxtLink :to="{ hash: '#cm' }" external="true"
+                  >Chris MUTEL</NuxtLink
+                >
+              </td>
             </tr>
             <tr class="active-row">
               <td>16:00 - 17:00</td>
               <td>Salle Ellipse</td>
               <td>
-                Panel discussion on benefits and limits of openness, by Chris
-                MUTEL and Oliver KUSCHE
+                Panel discussion on benefits and limits of openness, by
+                <NuxtLink :to="{ hash: '#cm' }" external="true"
+                  >Chris MUTEL</NuxtLink
+                >
+                and
+                <NuxtLink :to="{ hash: '#ok' }" external="true"
+                  >Oliver KUSCHE</NuxtLink
+                >
               </td>
             </tr>
             <tr class="active-row">
               <td>17:00 - 17:30</td>
               <td>Salle Ellipse</td>
               <td>
-                Prioritizin Brightway development by Tomás NAVARRETE GUTIÉRREZ
+                Prioritizin Brightway development by
+                <NuxtLink :to="{ hash: '#tng' }" external="true"
+                  >Tomás NAVARRETE GUTIÉRREZ</NuxtLink
+                >
                 <span class="tag">workshop</span>
               </td>
             </tr>
