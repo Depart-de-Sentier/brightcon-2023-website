@@ -49,7 +49,7 @@
             <td>17/Sept/2023</td>
             <td>17:00 - 18:00</td>
             <td>Belval Petanque court</td>
-	    <td>Outdoors games / snacks (<i>if weather allows</i>)</td>
+	    <td>Outdoor games / snacks (<i>if weather allows</i>)</td>
           </tr>
           <tr class="active-row">
             <td>17/Sept/2023</td>
