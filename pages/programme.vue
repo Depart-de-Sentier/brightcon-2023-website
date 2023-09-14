@@ -185,7 +185,7 @@
               <td>17:00 - 17:30</td>
               <td>Salle Ellipse</td>
               <td>
-                Prioritizin Brightway development by
+                Prioritizing Brightway development by
                 <NuxtLink :to="{ hash: '#tng' }" external="true"
                   >Tomás NAVARRETE GUTIÉRREZ</NuxtLink
                 >
