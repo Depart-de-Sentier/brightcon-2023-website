@@ -45,6 +45,18 @@
             <td>Belvaux building of LIST</td>
             <td>hackathon</td>
           </tr>
+          <tr class="active-row">
+            <td>17/Sept/2023</td>
+            <td>17:00 - 18:00</td>
+            <td>Belval Petanque court</td>
+	    <td>Outdoors games / snacks (<i>if weather allows</i>)</td>
+          </tr>
+          <tr class="active-row">
+            <td>17/Sept/2023</td>
+            <td>18:30 - 20:00</td>
+            <td>Urban bar a Belval</td>
+            <td>Drinks and finger food to share (TBC)</td>
+          </tr>
         </tbody>
 
         <tbody></tbody>
