@@ -360,6 +360,8 @@
                 Practical Life Cycle Sustainability Assessment by
                 <NuxtLink :to="{ hash: '#hz' }" external="true"
                   >Hanie ZARAFSHANI</NuxtLink
+                > and <NuxtLink :to="{ hash: '#bw' }" external="true"
+                  >Bo WEIDEMA</NuxtLink
                 >
               </td>
             </tr>
