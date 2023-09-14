@@ -56,6 +56,16 @@
 <script setup lang="ts">
 const instructors = ref([
   {
+    name: "Bo WEIDEMA",
+    instid: "bw",
+    designation: "Professor at Aalborg University",
+    // imgUrl: "/images/instructors/michael-weinold.jpeg",
+    designation: "Professor at Aalborg University",
+    bio: "",
+    linkedIn: "https://www.linkedin.com/in/bo-weidema-5486a78/",
+    github: "https://github.com/boweidema",
+  },
+  {
     name: "Michael WEINOLD",
     instid: "mw",
     designation: "Assistant Professor at Aalborg University",
