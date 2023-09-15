@@ -24,7 +24,7 @@
       </li>
     </ul>
     <h2>Conference location</h2>
-    The Conference of Sept. 18,18 and 20 will be held ond the Ellipse room of
+    The Conference of Sept. 18, 19 and 20 will be held ond the Ellipse room of
     <a href="https://www.uni.lu/llc-en">uni.lu Learning Center</a>
     <ul>
       <li>
