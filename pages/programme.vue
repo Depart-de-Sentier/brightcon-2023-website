@@ -185,7 +185,7 @@
               <td>17:00 - 17:30</td>
               <td>Salle Ellipse</td>
               <td>
-                Prioritizin Brightway development by
+                Prioritizing Brightway development by
                 <NuxtLink :to="{ hash: '#tng' }" external="true"
                   >Tomás NAVARRETE GUTIÉRREZ</NuxtLink
                 >
@@ -360,6 +360,8 @@
                 Practical Life Cycle Sustainability Assessment by
                 <NuxtLink :to="{ hash: '#hz' }" external="true"
                   >Hanie ZARAFSHANI</NuxtLink
+                > and <NuxtLink :to="{ hash: '#bw' }" external="true"
+                  >Bo WEIDEMA</NuxtLink
                 >
               </td>
             </tr>

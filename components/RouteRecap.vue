@@ -49,8 +49,8 @@ const routesGroup = [
         external: true,
       },
       {
-        label: "Gitter",
-        url: "https://gitter.im/brightway-lca/brightcon",
+        label: "Matrix",
+        url: "https://app.element.io/#/room/%23brightway/brightcon:matrix.org",
         external: true,
       },
     ],
