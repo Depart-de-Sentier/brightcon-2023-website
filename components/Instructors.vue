@@ -59,7 +59,7 @@ const instructors = ref([
     name: "Bo WEIDEMA",
     instid: "bw",
     designation: "Professor at Aalborg University",
-    // imgUrl: "/images/instructors/michael-weinold.jpeg",
+    imgUrl: "/images/instructors/bo-weidema.jpeg",
     designation: "Professor at Aalborg University",
     bio: "",
     linkedIn: "https://www.linkedin.com/in/bo-weidema-5486a78/",
