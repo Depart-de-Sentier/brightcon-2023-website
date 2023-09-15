@@ -197,6 +197,11 @@
               <td>Salle Ellipse</td>
               <td>Welcome drink</td>
             </tr>
+            <tr class="active-row">
+              <td>18:00 - TBD</td>
+              <td>Online</td>
+              <td>VOD: Talks and introduction to workshops (Organized in groups during coffee break)</td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -313,6 +318,11 @@
               <td>18:00 - 22:00</td>
               <td>Salle Ellipse</td>
               <td>Social gathering</td>
+            </tr>
+            <tr class="active-row">
+              <td>18:00 - TBD</td>
+              <td>Online</td>
+              <td>VOD: Talks and introduction to workshops (Organized in groups during coffee break)</td>
             </tr>
           </tbody>
         </table>
