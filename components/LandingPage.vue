@@ -29,7 +29,7 @@
               </NuxtLink>
             </div>
             <NuxtLink
-              to="https://app.element.io/#/room/#brightway/brightcon:matrix.org"
+              to="https://app.element.io/#/room/#brightcon-tech:matrix.org"
               class="button primary outline"
             >
               Conference tech support

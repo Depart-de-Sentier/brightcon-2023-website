@@ -35,7 +35,7 @@ const routes = [
       },
       {
         label: "Conference tech support",
-        url: "https://app.element.io/#/room/#brightway/brightcon:matrix.org",
+        url: "https://app.element.io/#/room/#brightcon-tech:matrix.org",
         external: true,
       },
     ],
