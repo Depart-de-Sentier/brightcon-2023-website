@@ -150,6 +150,7 @@
                 <NuxtLink :to="{ hash: '#mw' }" external="true"
                   >Michael WEINOLD</NuxtLink
                 >
+		<span class="tag">workshop</span>		      
               </td>
             </tr>
             <tr class="active-row">
@@ -236,7 +237,8 @@
                 <NuxtLink :to="{ hash: '#mk' }" external="true"
                   >Manuel KLARMAN</NuxtLink
                 >
-              </td>
+		<span class="tag">workshop</span>
+	      </td>
             </tr>
             <tr class="active-row">
               <td>10:45 - 11:00</td>
@@ -373,7 +375,8 @@
                 > and <NuxtLink :to="{ hash: '#bw' }" external="true"
                   >Bo WEIDEMA</NuxtLink
                 >
-              </td>
+		<span class="tag">workshop</span>
+	      </td>
             </tr>
             <tr class="active-row">
               <td>12:00 - 13:00</td>
