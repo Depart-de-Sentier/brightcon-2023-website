@@ -21,13 +21,19 @@
               Venue
             </NuxtLink> -->
             <div>
-              <NuxtLink href="#" class="button primary outline">
-                <s>Call for sessions form</s>
+              <NuxtLink
+                to="https://app.element.io/#/room/#brightway/brightcon:matrix.org"
+                class="button primary outline"
+              >
+                Conference chat
               </NuxtLink>
             </div>
-            <!-- <NuxtLink to="/programme" class="button primary outline">
-              Programme
-            </NuxtLink> -->
+            <NuxtLink
+              to="https://app.element.io/#/room/#brightway/brightcon:matrix.org"
+              class="button primary outline"
+            >
+              Conference tech support
+            </NuxtLink>
           </div>
           <div class="row is-horizontal-align">
             <div>
