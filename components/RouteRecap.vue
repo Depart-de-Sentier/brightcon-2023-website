@@ -49,8 +49,13 @@ const routesGroup = [
         external: true,
       },
       {
-        label: "Matrix",
-        url: "https://app.element.io/#/room/%23brightway/brightcon:matrix.org",
+        label: "Conference chat",
+        url: "https://app.element.io/#/room/#brightway/brightcon:matrix.org",
+        external: true,
+      },
+      {
+        label: "Conference tech support",
+        url: "https://app.element.io/#/room/#brightcon-tech:matrix.org",
         external: true,
       },
     ],
