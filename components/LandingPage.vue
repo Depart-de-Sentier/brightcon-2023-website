@@ -23,14 +23,14 @@
             <div>
               <NuxtLink
                 to="https://app.element.io/#/room/#brightway/brightcon:matrix.org"
-                class="button primary outline"
+                class="button success"
               >
                 Conference chat
               </NuxtLink>
             </div>
             <NuxtLink
               to="https://app.element.io/#/room/#brightcon-tech:matrix.org"
-              class="button primary outline"
+              class="button success"
             >
               Conference tech support
             </NuxtLink>
