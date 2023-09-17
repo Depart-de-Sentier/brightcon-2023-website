@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1>Tentative Programme for Brightcon 2023</h1>
+      <h1>Programme for Brightcon 2023</h1>
 
       <h2>Hackathon - Sept 16 & 17</h2>
       <p>
