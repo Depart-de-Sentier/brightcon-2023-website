@@ -72,7 +72,7 @@
     </div>
     <div class="row col is-vertical-align is-horizontal-align">
       <NuxtLink to="/programme" class="button secondary">
-        Tentative Programme
+        Programme
       </NuxtLink>
     </div>
   </div>
