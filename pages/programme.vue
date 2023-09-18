@@ -229,7 +229,7 @@
                 Presentation of the EOS-Platform from Eaternity (group exercise)
                 by
                 <NuxtLink :to="{ hash: '#mk' }" external="true"
-                  >Manuel KLARMAN</NuxtLink
+                  >Manuel KLARMANN</NuxtLink
                 >
 		<span class="tag">workshop</span>
 	      </td>
