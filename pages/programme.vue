@@ -289,7 +289,7 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>15:45 - 16:30</td>
+              <td>15:45 - 16:00</td>
               <td>Salle Ellipse</td>
               <td>
                 Adapting bw_processing to Parquet by
@@ -299,7 +299,7 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>16:30 - 17:00</td>
+              <td>16:00 - 16:30</td>
               <td>Salle Ellipse</td>
               <td>
                 ILCD Importer for bw2io by
@@ -309,7 +309,7 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>17:00 - 17:30</td>
+              <td>16:30 - 17:30</td>
               <td>Salle Ellipse</td>
               <td>"Help, I neeed somebody" breakout session</td>
             </tr>
