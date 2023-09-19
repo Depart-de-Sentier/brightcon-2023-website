@@ -56,6 +56,16 @@
 <script setup lang="ts">
 const instructors = ref([
   {
+    name: "Romain SACCHI",
+    instid: "rs",
+    designation:
+      "Researcher at the Technology Assessment Group of the Paul Scherrer Institute",
+    imgUrl: "/images/instructors/romain-sacchi.jpeg",
+    bio: "Romain Sacchi is a researcher at the Technology Assessment Group of the Paul Scherrer Institute since June 2019. He contributes within the field of LCA applied to future mobility technologies. More specifically, Romain investigates the opportunities and challenges related to the electrification of mobility, considering all the environmentally-relevant phases along the life cycle of transportation services. More recently, he developed a keen interest in energy system models and Integrated Assessment Models and their application to LCA.",
+    linkedIn: "https://www.linkedin.com/in/romainsacchi/",
+    github: "https://github.com/romainsacchi",
+  },
+  {
     name: "Bo WEIDEMA",
     instid: "bw",
     designation: "Professor at Aalborg University",
@@ -74,16 +84,6 @@ const instructors = ref([
     bio: "Michael Weinold is a doctoral researcher in the Group for Technology Assessment at Paul Scherrer Institute and the Department of Mechanical and Process Engineering of ETH Zürich. His research interests include life-cycle assessment for sustainable aviation and methodological improvements for hybrizing life-cycle inventory. His research is undertaken as part of the WISER Innosuisse flagship, an interdisciplinary project funded by Swiss Innovation Agency. It is aimed at providing a web of interoperable digital services for knowledge on decarbonisation pathways.",
     linkedIn: "https://www.linkedin.com/in/michaelweinold/",
     github: "https://github.com/michaelweinold",
-  },
-  {
-    name: "Romain SACCHI",
-    instid: "rs",
-    designation:
-      "Researcher at the Technology Assessment Group of the Paul Scherrer Institute",
-    imgUrl: "/images/instructors/romain-sacchi.jpeg",
-    bio: "Romain Sacchi is a researcher at the Technology Assessment Group of the Paul Scherrer Institute since June 2019. He contributes within the field of LCA applied to future mobility technologies. More specifically, Romain investigates the opportunities and challenges related to the electrification of mobility, considering all the environmentally-relevant phases along the life cycle of transportation services. More recently, he developed a keen interest in energy system models and Integrated Assessment Models and their application to LCA.",
-    linkedIn: "https://www.linkedin.com/in/romainsacchi/",
-    github: "https://github.com/romainsacchi",
   },
   {
     name: "Sander van Nielen",
@@ -131,8 +131,17 @@ const instructors = ref([
     github: "https://github.com/tngTUDOR",
   },
   {
+    name: "Sean Pollard",
+    instid: "spollard",
+    designation: "",
+    imgUrl: "/images/instructors/sean-pollard.jpg",
+    bio: "Sean Pollard is a software engineer at ecoinvent, and a pretty chill dude.",
+    linkedIn: "https://www.linkedin.com/in/sean-pollard-1992bb26/",
+    github: "https://github.com/seanjpollard",
+  },
+  {
     name: "Chris Mutel",
-    instid: "cm",
+    instid: "cmutel",
     designation: "",
     imgUrl: "/images/instructors/chris-mutel.jpg",
     bio: "Chris Mutel develops software for sustainability, and is the creator of the LCA Framework Brightway",

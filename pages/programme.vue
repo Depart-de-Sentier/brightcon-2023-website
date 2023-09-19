@@ -356,12 +356,22 @@
               </td>
             </tr>
             <tr class="active-row">
-              <td>9:45 - 10:15</td>
+              <td>9:45 - 10:00</td>
               <td>Salle Ellipse</td>
               <td>
                 Matchbox: Matching mismatched databases by
-                <NuxtLink :to="{ hash: '#cmhimself' }" external="true"
+                <NuxtLink :to="{ hash: '#cmutel' }" external="true"
                   >Chris MUTEL</NuxtLink
+                >
+              </td>
+            </tr>
+            <tr class="active-row">
+              <td>10:00 - 10:15</td>
+              <td>Salle Ellipse</td>
+              <td>
+                The ecoinvent glossary by
+                <NuxtLink :to="{ hash: '#spollard' }" external="true"
+                  >Sean POLLARD</NuxtLink
                 >
               </td>
             </tr>
