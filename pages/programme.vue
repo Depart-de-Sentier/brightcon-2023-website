@@ -49,7 +49,7 @@
             <td>17/Sept/2023</td>
             <td>17:00 - 18:00</td>
             <td>Belval Petanque court</td>
-	    <td>Outdoor games / snacks (<i>if weather allows</i>)</td>
+            <td>Outdoor games / snacks (<i>if weather allows</i>)</td>
           </tr>
         </tbody>
 
@@ -144,7 +144,7 @@
                 <NuxtLink :to="{ hash: '#mw' }" external="true"
                   >Michael WEINOLD</NuxtLink
                 >
-		<span class="tag">workshop</span>		      
+                <span class="tag">workshop</span>
               </td>
             </tr>
             <tr class="active-row">
@@ -195,7 +195,10 @@
             <tr class="active-row">
               <td>18:00 - TBD</td>
               <td>Online</td>
-              <td>VOD: Talks and introduction to workshops (Organized in groups during coffee break)</td>
+              <td>
+                VOD: Talks and introduction to workshops (Organized in groups
+                during coffee break)
+              </td>
             </tr>
           </tbody>
         </table>
@@ -231,8 +234,8 @@
                 <NuxtLink :to="{ hash: '#mk' }" external="true"
                   >Manuel KLARMANN</NuxtLink
                 >
-		<span class="tag">workshop</span>
-	      </td>
+                <span class="tag">workshop</span>
+              </td>
             </tr>
             <tr class="active-row">
               <td>10:45 - 11:00</td>
@@ -313,12 +316,20 @@
             <tr class="active-row">
               <td>18:00 - 22:00</td>
               <td>Salle Ellipse</td>
-              <td>Social gathering</td>
+              <td>
+                Social gathering at
+                <NuxtLink to="https://www.facebook.com/SchmelzBelval/">
+                  Schmelz restaurant </NuxtLink
+                >(1 minute walk from the conference venue)
+              </td>
             </tr>
             <tr class="active-row">
               <td>18:00 - TBD</td>
               <td>Online</td>
-              <td>VOD: Talks and introduction to workshops (Organized in groups during coffee break)</td>
+              <td>
+                VOD: Talks and introduction to workshops (Organized in groups
+                during coffee break)
+              </td>
             </tr>
           </tbody>
         </table>
@@ -366,11 +377,13 @@
                 Practical Life Cycle Sustainability Assessment by
                 <NuxtLink :to="{ hash: '#hz' }" external="true"
                   >Hanie ZARAFSHANI</NuxtLink
-                > and <NuxtLink :to="{ hash: '#bw' }" external="true"
+                >
+                and
+                <NuxtLink :to="{ hash: '#bw' }" external="true"
                   >Bo WEIDEMA</NuxtLink
                 >
-		<span class="tag">workshop</span>
-	      </td>
+                <span class="tag">workshop</span>
+              </td>
             </tr>
             <tr class="active-row">
               <td>12:00 - 13:00</td>
